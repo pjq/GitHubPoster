@@ -1,3 +1,122 @@
+1644207952033910784 2023-04-07 05:18:18 +0000 <pengjianqing> 里面支持bash命令，想象一下，实体机就要被控制了
+1644207465222017024 2023-04-07 05:16:22 +0000 <pengjianqing> 看下它的各种tool/agents，可以随便组合在一起，自己定义一个tool也是非常简单，不用等ChatGPT Plugin, 当然它也支持ChatGPT Plugin.  https://t.co/VhKrhz8U1Y
+1644206312920879104 2023-04-07 05:11:47 +0000 <pengjianqing> 试了各种langchain的工具，很强大，现有各种LLM都支持  https://t.co/4MxsB0tNXk
+1644205899236638720 2023-04-07 05:10:08 +0000 <pengjianqing> langchain+各种tool其实已经超级强大了，这个是ChatGPT+Google Search的组合  https://t.co/FKzT7FkqNk
+1643758629018013696 2023-04-05 23:32:51 +0000 <pengjianqing> @tryue2012 @BaibanbaoNet 可以参考一下   https://t.co/cVmYomuQuq
+1643550493271285766 2023-04-05 09:45:47 +0000 <pengjianqing> 商场里的这些书都免费看，浦东图书馆的书，挺好的  https://t.co/c0dE2rWPLK
+1643504572525330432 2023-04-05 06:43:19 +0000 <pengjianqing> 带小朋友骑行，一路上人挺多  https://t.co/Rnb8kRBOIE
+1643238176025374720 2023-04-04 13:04:45 +0000 <pengjianqing> @Phoebus_Ji 是的呀，最近一年都脚伤，不能跑步
+1643198583787913216 2023-04-04 10:27:26 +0000 <pengjianqing> 昨天跑了5公里，今天跑了6公里，虽然有点不适，但还是可以跑，难道我又要可以正常跑步了？
+1643136693359493126 2023-04-04 06:21:30 +0000 <pengjianqing> #ChitChat now support more features 1. Code syntax highlight 2. With just one click to copy the code block, very convenient. 3. Support GPT-4.  Feel free to have a try  https://t.co/p3PfdlkWI0  https://t.co/VLUQwtLRsw
+1642422936035561472 2023-04-02 07:05:17 +0000 <pengjianqing> 大上海又开始堵了  https://t.co/tm8fY3fsKO
+1642176370708201473 2023-04-01 14:45:31 +0000 <pengjianqing> 九天小长假就要结束了，这两天感觉景区人好多
+1642097593848336384 2023-04-01 09:32:29 +0000 <pengjianqing>  https://t.co/FkPCCn2t2j
+1642022094933487619 2023-04-01 04:32:29 +0000 <pengjianqing> 瘦西湖畔大明寺  https://t.co/NLBoOxjz4M
+1641807371642208257 2023-03-31 14:19:15 +0000 <pengjianqing> 这是说AI可以自己创建训练语料然后自我进化了
+1641700068167389185 2023-03-31 07:12:52 +0000 <pengjianqing> 累趴  https://t.co/0JRiHC4mmg
+1641658384440262657 2023-03-31 04:27:14 +0000 <pengjianqing> 个园  https://t.co/FbH46N1Zdt
+1641458792616574977 2023-03-30 15:14:07 +0000 <pengjianqing> @AndrewYNg Build my ChatGPT style cross platform App from scratch, and I haven't use Flutter previously  https://t.co/IxlQzrLjLQ
+1641295248306626561 2023-03-30 04:24:15 +0000 <pengjianqing>  https://t.co/QTENKUu5DJ
+1641244384099467265 2023-03-30 01:02:08 +0000 <pengjianqing> @sama 4) ethical guidelines and principles for AGI development and deployment 5) ongoing research and development to improve the safety and reliability of AGI 6) collaboration and sharing of knowledge and resources within the AGI community
+1641014707942494209 2023-03-29 09:49:29 +0000 <pengjianqing> GPT-4 API 开通了  https://t.co/E9WmPSnQRo
+1640944820654075905 2023-03-29 05:11:47 +0000 <pengjianqing> 启杨高速车就是少，最高开到了170  https://t.co/yuE2WbNazs
+1640677625353101312 2023-03-28 11:30:02 +0000 <pengjianqing> Coding for fun: ChitChat is released to Google Play Successfully. #ChitChat #ChatGPT #OpenAI  https://t.co/oa9qpZ4MUd
+1640638049976750081 2023-03-28 08:52:47 +0000 <pengjianqing> 报告出来了，没什么问题，我怀疑那个医生有点水，他说可以慢慢跑增加跑量
+1640637687857291267 2023-03-28 08:51:21 +0000 <pengjianqing>  https://t.co/WGxy6vvrCQ
+1640584937505198080 2023-03-28 05:21:44 +0000 <pengjianqing> 今天终于把携号转网给办好了，联通转电信挂靠在电信宽带下面
+1640352986827481089 2023-03-27 14:00:03 +0000 <pengjianqing> Only support 3 seconds, just kidding.
+1640334451740930050 2023-03-27 12:46:23 +0000 <pengjianqing> @eexpss @senob_ 那真的是无敌了
+1640328837077827584 2023-03-27 12:24:05 +0000 <pengjianqing> @eexpss @senob_ 真是天选，目前同事里面确实也有没感染过的
+1640327966046715904 2023-03-27 12:20:37 +0000 <pengjianqing> @eexpss @senob_ 也一针没打，但发烧过
+1640317212241305601 2023-03-27 11:37:53 +0000 <pengjianqing> 人生第一次体验核磁共振达成，不小心把戒指带进去了，机器刚开几秒发现了，赶紧摘下来放边上，然后脑补戒指被突然吸入，直接把我爆头了
+1640239167799185408 2023-03-27 06:27:46 +0000 <pengjianqing> 终于去医院看跑步疼的问题，之前一直觉得腘绳肌那里痛，拍了CT没看出膝盖有什么问题，约了核磁共振，还挺快，约了今天晚上，快一年了，都没好，跑步生涯是要结束了吗
+1640204768126828544 2023-03-27 04:11:04 +0000 <pengjianqing> 国内公司做的东西太恶心了，加一个卸载菜单，但实际不是系统功能，普通用户，一下子就被骗了  https://t.co/AVahuHimJd
+1639839993261850625 2023-03-26 04:01:35 +0000 <pengjianqing> 好久没来大拇指广场了  https://t.co/FG0rNDPFGu
+1639578288342573056 2023-03-25 10:41:40 +0000 <pengjianqing> @yihong0618 这周也太多了吧
+1639576446225256448 2023-03-25 10:34:21 +0000 <pengjianqing> 让ChatGPT生成的翻译脚本上线工作，太方便了。  https://t.co/3u6q9PriJr
+1639504974043578368 2023-03-25 05:50:20 +0000 <pengjianqing> 这个月已经用了1400G流量 网速限速到300M了  https://t.co/TKtuBubZQn
+1639472378651774976 2023-03-25 03:40:49 +0000 <pengjianqing> 随时随地用AI 写代码  https://t.co/u3iT7o0DXh
+1639462640153157633 2023-03-25 03:02:07 +0000 <pengjianqing> 去年年假月底到期了，下周休假一周
+1639289962507141121 2023-03-24 15:35:58 +0000 <pengjianqing> 10 days like 10 years, what is the crazy days, These days feel like a decade, what are these wild times?
+1639100095219253248 2023-03-24 03:01:30 +0000 <pengjianqing> @leeeboo 大神
+1639078399632379904 2023-03-24 01:35:17 +0000 <pengjianqing> 把ChatGPT Plugin开发文档看完了，整个过程还是很简单的，半天小时就能差不多看完，也提供了一些例子供参考   https://t.co/0PFR0s0NRw
+1639069317416509441 2023-03-24 00:59:12 +0000 <pengjianqing> 今天第一个到办公室
+1638960430893912064 2023-03-23 17:46:31 +0000 <pengjianqing> 马上整个生态就要起来了
+1638930530828967936 2023-03-23 15:47:43 +0000 <pengjianqing> 一个月Cloudflare 800G 流量, 大部分都是Netflix 流量  https://t.co/aYcFTqn5Wv
+1638750264743321601 2023-03-23 03:51:24 +0000 <pengjianqing> 代码很简单，直接跑一下就可以  https://t.co/Tfy4UCpk35
+1638743150582984704 2023-03-23 03:23:08 +0000 <pengjianqing> 抓了一些以前的Tweet训练一个影子自己，其实费用估计还挺费的，才用了几十条推  https://t.co/HzPnv9K7sO
+1638357599392505856 2023-03-22 01:51:05 +0000 <pengjianqing> #Bard is also can write code  https://t.co/7XMhUpGP8H
+1638356861710921732 2023-03-22 01:48:09 +0000 <pengjianqing> OpenAI是怎么快速监控到我的key泄漏的，昨天不小心把key Push上去了，然后就莫名其妙，无法发送请求了，看到邮件才知道key被推上去了，然后OpenAI发现了，立刻做了key rotation.  https://t.co/2kJoGu12rg
+1638328762965319680 2023-03-21 23:56:30 +0000 <pengjianqing> First try for #Bart  https://t.co/haVw4DBfn4
+1638229745447104514 2023-03-21 17:23:02 +0000 <pengjianqing> @myfxtrader 中国将官方加入伊朗，为俄罗斯装备武器，“如果基辅不接受中国的和平计划的话”。这是直接来自中国代表团的消息，该代表团与中国国家主席习近平在俄罗斯进行的国事访问期间同行。  预计习近平本周晚些时候将致电乌克兰总统泽连斯基，也许是在他的国事访问期间从莫斯科打过去的。  华盛顿的反应就像闪电一
+1638227977413722112 2023-03-21 17:16:01 +0000 <pengjianqing> In #Bard wait list, so crazy, the war is on the way  https://t.co/M9c7945OoA
+1638077169976119298 2023-03-21 07:16:45 +0000 <pengjianqing> ChitChat now support TTS and Speech to Text, iOS works well, but Android still doesn't work, maybe need to find another phone for testing, so you can now just talk to GPT3.5  #OpenAI #ChatGPT #ChitChat #TTS  https://t.co/Mf1YbI3kCq
+1637979645097439233 2023-03-21 00:49:14 +0000 <pengjianqing> 那个傻逼路过，一路警察，绿灯也不让走  https://t.co/Smq2wH7V01
+1637721370619678724 2023-03-20 07:42:56 +0000 <pengjianqing> OpenAI在招聘灌水专家，关健时刻切断ChatGPT的电源  https://t.co/SgErleZg9z
+1637683323102457856 2023-03-20 05:11:45 +0000 <pengjianqing> @yihong0618 @frostming90 Docker Image也同步更新了 https://t.co/OQMZIAYK5W
+1637616532439314432 2023-03-20 00:46:21 +0000 <pengjianqing> @oran_ge 同感
+1637614517378252802 2023-03-20 00:38:21 +0000 <pengjianqing> 公司的樱花开了  https://t.co/frgxshtUDG
+1637135369924902912 2023-03-18 16:54:23 +0000 <pengjianqing> 跑了LLaMA的进化版alpaca, 这两个都叫羊驼, 13B速度还可以，是基于llama.cpp  https://t.co/Y4OokPwo6L  https://t.co/hYkMu7pQzq
+1636671825479606272 2023-03-17 10:12:25 +0000 <pengjianqing> @zhuangbiaowei 狂飙
+1636648960726282240 2023-03-17 08:41:34 +0000 <pengjianqing> DIY 文心一言上线 哈哈  https://t.co/sPKzoisxaA
+1636641299687419906 2023-03-17 08:11:07 +0000 <pengjianqing> 支持多窗口聊天模式，支持自定义assistant prompt  https://t.co/8YfPb71eDw
+1636573017135370242 2023-03-17 03:39:47 +0000 <pengjianqing> 晚上不能看／玩技术有关的东西，最近太上头，停不下来，熬了几天夜，太累了
+1636571164154945537 2023-03-17 03:32:26 +0000 <pengjianqing> 汽车三年质保期快到了，到期前有个全车检测，以后有问题就要自费了
+1636530466701320192 2023-03-17 00:50:43 +0000 <pengjianqing> @yihong0618 这只是一个微信的转发，API 应该还是邀请码的吧
+1636529876256604161 2023-03-17 00:48:22 +0000 <pengjianqing> 也会写代码  https://t.co/wB5zEpfdSB
+1636528484372602888 2023-03-17 00:42:50 +0000 <pengjianqing> 目前测试下来文心一言，感觉还可以
+1636526489960316928 2023-03-17 00:34:55 +0000 <pengjianqing> 呀 各种外语也支持呀  https://t.co/2Yxlbmb97R
+1636523918604521472 2023-03-17 00:24:41 +0000 <pengjianqing> @wangzhian8848 百度搜索看病并不靠谱。搜索引擎结果只是一种信息来源，不能取代医生的诊断和治疗建议。因为许多疾病的症状和表现都有相似之处，非专业人士容易误判和误诊。此外，很多网站提供的医疗信息并不可靠，甚至存在误导和危险，可能会给自己和他人造成健康风险。所以，如果出现身体不适的情况，最好及时去
+1636441566545055744 2023-03-16 18:57:27 +0000 <pengjianqing> 两个机器人在瞎扯  https://t.co/9i0bdzKFHX
+1636439243638857728 2023-03-16 18:48:13 +0000 <pengjianqing> 文心一言和ChatGPT的首次对话  https://t.co/AxwBvDDuSZ
+1636439021831454720 2023-03-16 18:47:21 +0000 <pengjianqing>  https://t.co/pUFFbWm28w
+1636432125342932992 2023-03-16 18:19:56 +0000 <pengjianqing> 进微信群 体验文心一言  https://t.co/9DfSlnD5pL
+1636421580577456129 2023-03-16 17:38:02 +0000 <pengjianqing> 试听了一下 666
+1636419496964689923 2023-03-16 17:29:45 +0000 <pengjianqing> "The rapid pace of technological advancements is constantly reminding me how crazy the future is coming. With AI,  and countless other innovations on the horizon, it's both exhilarating and humbling to know that the possibilities are truly limitless. #technology #innovation
+1636419267381055488 2023-03-16 17:28:51 +0000 <pengjianqing> "The power of AI never ceases to amaze me - lately, I've been seeing amazing demonstrations of how AI can create stunning slides in seconds. It's exciting to imagine a future where technology supports us in even more ways than we can currently imagine. #AI #technology
+1636419105166364672 2023-03-16 17:28:12 +0000 <pengjianqing> "Every day, the advancements in AI continue to blow my mind. From GPT-4 integration in Office 365 to countless other cutting-edge developments, the possibilities seem endless. It's amazing to be a part of this ever-evolving field. #AI #innovation #technology"
+1636418935288651776 2023-03-16 17:27:32 +0000 <pengjianqing> Just heard that Office 365 has integrated the powerful GPT-4 language model. AI is changing at such a lightning pace - it's incredible to think how far we've come in just a few years. Exciting times ahead for the world of technology and artificial intelligence! #AI #tech
+1636417853175009280 2023-03-16 17:23:14 +0000 <pengjianqing> Wholly shit,  Microsoft is doing some crazy things, and AI will create the Slides with some prompt, the future is coming.
+1636416918948311040 2023-03-16 17:19:31 +0000 <pengjianqing> With the 30B model, the quality seems much better, and apparently performance is slow than 13B. I haven't try the 65B yet, but it should even better. And for the other fine-tune models, I'll believe it will be very exciting, so lets stay tunned.  #LLaMA  https://t.co/BZ1E5U4e83
+1636401051954982914 2023-03-16 16:16:28 +0000 <pengjianqing> [Blog Update]: 如何本地运行LLaMA #LLaMA  https://t.co/V4Vh361vwS #   .  .
+1636387277617401857 2023-03-16 15:21:44 +0000 <pengjianqing> 感觉像触发了某种bug, 系统列锁了，一直在输出同样的内容  https://t.co/ayyKt9QH0W
+1636386254857314309 2023-03-16 15:17:40 +0000 <pengjianqing> 在PR里面找到一个脚本，对话时间可以久一些了，效果也好一点了 #llama   https://t.co/093dfq7zGK
+1636363632069206021 2023-03-16 13:47:46 +0000 <pengjianqing> llama跑起来了，感觉不是那么灵光  https://t.co/NlSPq5Ex4F
+1636319311454425090 2023-03-16 10:51:39 +0000 <pengjianqing> 哈哈哈哈
+1636273621864964098 2023-03-16 07:50:06 +0000 <pengjianqing> 把Download Station 重新安装，终于成功设置了缓存路径，16M/s的下载速度, 模型一共200G+  https://t.co/Vv54H2KYcm
+1636261889914343427 2023-03-16 07:03:29 +0000 <pengjianqing> 电信宽带还限速 超1T，降速到300M  https://t.co/3M0xMQO8Xe
+1636255733477146625 2023-03-16 06:39:01 +0000 <pengjianqing> 暂存位置，我记得之前改过，原来没生效，系统盘只有60G，直接撑爆了
+1636235651665518593 2023-03-16 05:19:13 +0000 <pengjianqing> 想在本机跑一个LLaMA 7B, 看看效果如何  https://t.co/grtisaA2Hy  https://t.co/tU8jczT5ej
+1635849774380511232 2023-03-15 03:45:53 +0000 <pengjianqing> ChatGPT Plus 第二次续费了，续费保命  https://t.co/wl2n2DzXsC
+1635848938199879682 2023-03-15 03:42:34 +0000 <pengjianqing> @yihong0618 哎呀 生日快乐
+1635703507981303818 2023-03-14 18:04:40 +0000 <pengjianqing> GPT 3.5到GPT 4虽然只差了0.5代，但这实际的差距估计是指数级的
+1635698723714891783 2023-03-14 17:45:40 +0000 <pengjianqing> 太恐怖了
+1635691242066698240 2023-03-14 17:15:56 +0000 <pengjianqing> GPT-4 Just released, crazy
+1635684599270641664 2023-03-14 16:49:32 +0000 <pengjianqing> @Tisoga 确实感觉慢了
+1635463087536107520 2023-03-14 02:09:20 +0000 <pengjianqing> 早两天骑电瓶车，左拐过马路，差点被车撞了，这个是自己的问题，经常走的路口红绿灯信号改了。昨天在公司骑自行车锻炼，直接中暑了，头皮发紧。所以想想人还是很脆弱的，不知道明天和意外哪个先到。
+1635231622504251393 2023-03-13 10:49:34 +0000 <pengjianqing> Support Markdown now  https://t.co/nhtwUkj4ZJ
+1635161344050872320 2023-03-13 06:10:18 +0000 <pengjianqing> @yihong0618 这个不小心上去 乌纱帽不保，一不小心就搞一个大新闻
+1635158620819308544 2023-03-13 05:59:29 +0000 <pengjianqing> 笑死我了，把上海发布的通稿，发给ChatGPT, 给了总结，然后再让它翻译它给的总结，直接李强翻译成李克强了  https://t.co/ICogRJa3at
+1634774551757475840 2023-03-12 04:33:20 +0000 <pengjianqing> 一个月白嫖Cloudflare 700G 流量  https://t.co/QxZjIA1aMj
+1634423983994208256 2023-03-11 05:20:18 +0000 <pengjianqing> 复兴岛公园上挺有意思的一家店  https://t.co/Rgpv5qzQlN
+1634420417221001218 2023-03-11 05:06:08 +0000 <pengjianqing> 这个公园的提示还没更新  https://t.co/sqHRvDoWWV
+1634413246370426882 2023-03-11 04:37:38 +0000 <pengjianqing>  https://t.co/OkZ91SCYHB
+1634409014858743809 2023-03-11 04:20:49 +0000 <pengjianqing> @Phoebus_Ji 那裁员了没
+1634383007716085761 2023-03-11 02:37:29 +0000 <pengjianqing> 欢迎点赞转发PR  https://t.co/IxlQzrLjLQ
+1634382802157445120 2023-03-11 02:36:40 +0000 <pengjianqing> Source code  https://t.co/IxlQzrLjLQ
+1634368462217936896 2023-03-11 01:39:41 +0000 <pengjianqing> More features:1. Support translation 2. Support text rephrase 3. Support OpenAI Base URL Config as well as Proxy Settings  https://t.co/L8uH8t9O08
+1634159591561871361 2023-03-10 11:49:42 +0000 <pengjianqing> Support Proxy Settings #ChatGPT
+1633874255267102720 2023-03-09 16:55:53 +0000 <pengjianqing> Build more features 1. Build Copy/Share/Translation actions 2. Build About screen  https://t.co/NI6RZ6pgxM
+1633776726688821249 2023-03-09 10:28:20 +0000 <pengjianqing> The features already support 1. Display Chinese 2. Support continuous conversation mode 3.  Chat history persistent 4. Cross platform support , Android/iOS/Mac/Web  #flutter #ChatGPT #MobileApp  https://t.co/dK1E1veN0U
+1633423892395208704 2023-03-08 11:06:18 +0000 <pengjianqing> 看起来有点像那么回事了  https://t.co/tb4X4HzqLw
+1633417161527136257 2023-03-08 10:39:33 +0000 <pengjianqing> 零 Flutter基础，在ChatGPT的帮助下，实现了一个简易版的ChatGPT客户端，后面继续完善  https://t.co/Kc19Acq4cN
+1633059307137953792 2023-03-07 10:57:34 +0000 <pengjianqing> 怎么回事，qemu吃了将近40G内存，Swap都爆了  https://t.co/dMJece7sPI
+1633057396171100162 2023-03-07 10:49:58 +0000 <pengjianqing> 把这个关掉试试  https://t.co/EIe9U4fdM6
+1633056566567129094 2023-03-07 10:46:40 +0000 <pengjianqing> 杀掉进程又自己起来了
+1633055971470872577 2023-03-07 10:44:18 +0000 <pengjianqing> Docker 占掉20G内存？  https://t.co/s99kIQTPx2
+1633054447197896705 2023-03-07 10:38:15 +0000 <pengjianqing> 把开发工具全家入 Developer Tools  https://t.co/PNYavXpwb0
+1632964827890196480 2023-03-07 04:42:08 +0000 <pengjianqing> 用Twitter最活跃时间是2010-2011  https://t.co/lX38QtQ9Gg
+1632963150613204993 2023-03-07 04:35:28 +0000 <pengjianqing> 用上了@yihong0618 Twitter备份工具 https://t.co/Wh3GUgm2aC
 1632945726639730688 2023-03-07 03:26:14 +0000 <pengjianqing> 简单整理了一下Google Play reply, 秒出了一个Goole Play的客服系统
 1632932412136230915 2023-03-07 02:33:20 +0000 <pengjianqing> @ChatGPTBot 分析一下当前推主发了哪些类型的推
 1632927319571726338 2023-03-07 02:13:05 +0000 <pengjianqing> 昨天照一个教程糊了一个脚本，基于langchain/gpt-index 可以fine-tune自己的KB系统  https://t.co/Tfy4UCpk35
